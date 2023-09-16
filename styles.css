@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+form{
+background-color:lightblue;
+	font-family:arial;
+	padding:30px;
+	margin:50px;
+	 
+}
+select{
+	color:brown;
+}
